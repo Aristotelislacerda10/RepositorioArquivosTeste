@@ -1,0 +1,2 @@
+[NCM]
+Data_Ultima_Atualizacao_NCM=20/07/2022
